@@ -1,2 +1,4 @@
 # hello_worlds
-I know how to use GitHub
+I've just got started with GitHub
+
+
